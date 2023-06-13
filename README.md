@@ -1,2 +1,1 @@
-# Repositorio1
-Prepcourse herny 
+Proyecto prueb
